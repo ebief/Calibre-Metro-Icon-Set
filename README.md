@@ -1,6 +1,6 @@
-# Calibre-Metro-Icon-Set
+# Metro Enhanced Icon Set for Calibre
 
-Icon set Metro updated for Calibre
+Icon set Metro Enhanced for Calibre based from Metro icon set.
 
 ## How to use
 
